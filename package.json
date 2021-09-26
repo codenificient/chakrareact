@@ -1,6 +1,7 @@
 {
   "name": "chakrareact",
   "version": "0.1.0",
+  "description": "I built a small NextJS user interface using React and ChakraUI",
   "private": true,
   "scripts": {
     "dev": "next dev",
