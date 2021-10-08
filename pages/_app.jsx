@@ -4,7 +4,7 @@ import theme from '../src/theme'
 import "../src/theme/styles.css"
 
 
-const App = ( { Component, pageProps }: AppProps ) =>
+const App = ( { Component, pageProps } ) =>
 {
   return (
     <ChakraProvider theme={theme}>
